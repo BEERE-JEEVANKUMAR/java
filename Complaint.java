@@ -1,5 +1,3 @@
-package models;
-
 import java.time.LocalDate;
 
 public class Complaint {
@@ -63,3 +61,4 @@ public class Complaint {
                 ", Date: " + date;
     }
 }
+
