@@ -1,7 +1,3 @@
-package services;
-
-import models.Complaint;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -44,3 +40,4 @@ public class ComplaintService {
         return complaints;
     }
 }
+
