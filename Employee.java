@@ -1,5 +1,3 @@
-package models;
-
 public class Employee {
     private String name;
 
@@ -11,3 +9,4 @@ public class Employee {
         return name;
     }
 }
+
